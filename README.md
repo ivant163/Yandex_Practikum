@@ -1,2 +1,2 @@
-# Yandex_Practikum
- Yandex_Practikum
+# Yandex_Practikum_Project
+В данном репозитории я разместил выполненные мною проекты в ходе обучения на курсе Яндекс.Практикума по специальности по Специалист по Data Science.
