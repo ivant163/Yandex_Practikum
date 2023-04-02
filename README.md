@@ -24,7 +24,7 @@
 
 ######################################################################################
 
-# [03_Apartments_for_sale_in_St.Petersburg](https://github.com/ivant163/Yandex_Practikum/blob/main)<br/>
+# [03_Apartments_for_sale_in_St.Petersburg](https://github.com/ivant163/Yandex_Practikum/blob/main/03_Apartments_for_sale_in_St.Petersburg/)<br/>
 Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости.
 
 Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.
