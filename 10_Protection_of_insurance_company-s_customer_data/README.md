@@ -1,4 +1,4 @@
-# 10_Protection_of_insurance_company's_customer_data
+# 10_Protection_of_insurance_company-s_customer_data
 Защита данных клиентов страховой компании.
 
 Разработка модели анонимизации персональных данных.
