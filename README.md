@@ -13,7 +13,7 @@
 
 ######################################################################################
 
-# 02_Analysis_of_bank_data(02_Analysis_of_bank_data.ipynb)
+# [02_Analysis_of_bank_data](https://github.com/ivant163/Yandex_Practikum/blob/main/02_Analysis_of_bank_data/)<br/>
 Исследование надёжности заёмщиков - анализ банковских данных.
 
 Была получена информация о данных. Определены и обработаны пропуски. Заменены типы данных на соответствующие хранящимся данным. Удалены дубликаты. Категоризованы данные. Один датафрейм декомпозирован на три.
@@ -24,7 +24,7 @@
 
 ######################################################################################
 
-# 03_Apartments_for_sale_in_St.Petersburg
+# [03_Apartments_for_sale_in_St.Petersburg](https://github.com/ivant163/Yandex_Practikum/blob/main)<br/>
 Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости.
 
 Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.
@@ -35,7 +35,7 @@
 
 ######################################################################################
 
-# 04_Determining_a_favorable_tariff_for_a_telecom_company
+# [04_Determining_a_favorable_tariff_for_a_telecom_company](https://github.com/ivant163/Yandex_Practikum/blob/main/04_Determining_a_favorable_tariff_for_a_telecom_company/)<br/>
 Определение выгодного тарифа для телеком компании.
 
 На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа.
@@ -46,7 +46,7 @@
 
 ######################################################################################
 
-# 05_Sale_of_computer_games
+# [05_Sale_of_computer_games](https://github.com/ivant163/Yandex_Practikum/blob/main/05_Sale_of_computer_games/)<br/>
 Исследование рынка компьютерных игр.
  
 Определение закономерности успешности игр.
@@ -57,7 +57,7 @@
 
 ######################################################################################
 
-# 06_Classification_of_telecom_company_clients
+# [06_Classification_of_telecom_company_clients](https://github.com/ivant163/Yandex_Practikum/blob/main/06_Classification_of_telecom_company_clients/)<br/>
 Классификация клиентов телеком компании.
 
 На основе данных необходимо предложить клиенту тариф.
@@ -68,7 +68,7 @@
 
 ######################################################################################
 
-# 07_Forecasting_the_outflow_of_bank_customers
+# [07_Forecasting_the_outflow_of_bank_customers](https://github.com/ivant163/Yandex_Practikum/blob/main/07_Forecasting_the_outflow_of_bank_customers/)<br/>
 Прогнозирование оттока клиентов Банка.
 
 На основе данных из банка определить клиента, который может уйти.
@@ -79,7 +79,7 @@
 
 ######################################################################################
 
-# 08_Determining_the_most_profitable_oil_production_region
+# [08_Determining_the_most_profitable_oil_production_region](https://github.com/ivant163/Yandex_Practikum/blob/main/08_Determining_the_most_profitable_oil_production_region/)<br/>
 Определение наиболее выгодного региона нефтедобычи.
 
 На основе данных геологической разведки выбрать лучшмй район добычи нефти.
@@ -90,7 +90,7 @@
 
 ######################################################################################
 
-# 09_Investigation_of_the_technological_process_of_gold_purification
+# [09_Investigation_of_the_technological_process_of_gold_purification](https://github.com/ivant163/Yandex_Practikum/blob/main/09_Investigation_of_the_technological_process_of_gold_purification/)<br/>
 Исследование технологического процесса очистки золота.
 
 Необходимо спрогнозировать концентрацию золота при проведении процесса очистки золота.
@@ -101,7 +101,7 @@
 
 ######################################################################################
 
-# 10_Protection_of_insurance_company's_customer_data
+# [10_Protection_of_insurance_company's_customer_data](https://github.com/ivant163/Yandex_Practikum/blob/main/10_Protection_of_insurance_company's_customer_data/)<br/>
 Защита данных клиентов страховой компании.
 
 Разработка модели анонимизации персональных данных.
@@ -112,7 +112,7 @@
 
 ######################################################################################
 
-# 11_Building_a_model_for_determining_the_cost_of_a_car
+# [11_Building_a_model_for_determining_the_cost_of_a_car](https://github.com/ivant163/Yandex_Practikum/blob/main/11_Building_a_model_for_determining_the_cost_of_a_car/)<br/>
 Построение модели определения стоимости автомобиля.
 
 Разработка системы рекомендации стоимости автомобиля на основе его описания.
@@ -123,7 +123,7 @@
 
 ######################################################################################
 
-# 12_Forecasting_the_number_of_taxi_orders_for_the_next_hour
+# [12_Forecasting_the_number_of_taxi_orders_for_the_next_hour](https://github.com/ivant163/Yandex_Practikum/blob/main/12_Forecasting_the_number_of_taxi_orders_for_the_next_hour/)<br/>
 Прогнозирование количества заказов такси на следующий час.
 
 Разработка системы предсказания объема заказа.
@@ -134,7 +134,7 @@
 
 ######################################################################################
 
-# 13_Training_the_comment_classification_model
+# [13_Training_the_comment_classification_model](https://github.com/ivant163/Yandex_Practikum/blob/main/13_Training_the_comment_classification_model/)<br/>
 Обучение модели классификации комментариев.
 
 Определение токсичности комментариев пользователей.
@@ -145,7 +145,7 @@
 
 ######################################################################################
 
-# 14_Computer_vision_system_for_processing_customer_photos
+# [14_Computer_vision_system_for_processing_customer_photos](https://github.com/ivant163/Yandex_Practikum/blob/main/14_Computer_vision_system_for_processing_customer_photos/)<br/>
 Система компьютерного зрения для обработки фотографий покупателей.
 
 Фотофиксация в прикассовой зоне поможет определять возраст клиентов, чтобы: анализировать покупки и предлагать товары, которые могут заинтересовать покупателей этой возрастной группы, контролировать добросовестность кассиров при продаже алкоголя.
