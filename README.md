@@ -101,7 +101,7 @@
 
 ######################################################################################
 
-# [10_Protection_of_insurance_company's_customer_data](https://github.com/ivant163/Yandex_Practikum/blob/main/10_Protection_of_insurance_company's_customer_data/)<br/>
+# [10_Protection_of_insurance_company's_customer_data](https://github.com/ivant163/Yandex_Practikum/blob/main/10_Protection_of_insurance_company-s_customer_data/)<br/>
 Защита данных клиентов страховой компании.
 
 Разработка модели анонимизации персональных данных.
