@@ -156,7 +156,7 @@
 
 ######################################################################################
 
-# [15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing](https://github.com/ivant163/Yandex_Practikum/blob/main/15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing.ipynb)<br/>
+# [15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing](https://github.com/ivant163/Yandex_Practikum/blob/main/15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing/15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing.ipynb)<br/>
 Уменьшение потребления электроэнергии на этапе обработки стали.
 
 Оптимизация производственного процесса потребления электроэнергии на этапе обработки стали.
@@ -165,4 +165,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Уменьшение потребления электроэнергии на этапе обработки стали](https://github.com/ivant163/Yandex_Practikum/blob/main/15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing.ipynb) | Необходимо построить модель, которая предскажет температуру стали | *pandas, seaborn, DecisionTreeRegressor, LinearRegression, CatBoostRegressor* |
+| [Уменьшение потребления электроэнергии на этапе обработки стали](https://github.com/ivant163/Yandex_Practikum/blob/main/15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing/15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing.ipynb) | Необходимо построить модель, которая предскажет температуру стали | *pandas, seaborn, DecisionTreeRegressor, LinearRegression, CatBoostRegressor* |
