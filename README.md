@@ -155,3 +155,14 @@
 | [Система компьютерного зрения для обработки фотографий покупателей](https://github.com/ivant163/Yandex_Practikum/blob/main/14_Computer_vision_system_for_processing_customer_photos/14_Computer_vision_system_for_processing_customer_photos.ipynb) | Необходимо провести исследовательский анализ набора фотографий | *pandas, keras* |
 
 ######################################################################################
+
+# 15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing
+Уменьшение потребления электроэнергии на этапе обработки стали.
+
+Оптимизация производственного процесса потребления электроэнергии на этапе обработки стали.
+
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных" / "Специалист по Data Science".
+
+| Название проекта | Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Уменьшение потребления электроэнергии на этапе обработки стали](https://github.com/ivant163/Yandex_Practikum/blob/main/15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing.ipynb) | Необходимо построить модель, которая предскажет температуру стали | *pandas, seaborn, DecisionTreeRegressor, LinearRegression, CatBoostRegressor* |
