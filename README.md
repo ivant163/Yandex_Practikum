@@ -156,7 +156,7 @@
 
 ######################################################################################
 
-# 15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing(https://github.com/ivant163/Yandex_Practikum/blob/main/15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing.ipynb)<br/>
+# [15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing](https://github.com/ivant163/Yandex_Practikum/blob/main/15_Reduction_of_electricity_consumption_at_the_stage_of_steel_processing.ipynb)<br/>
 Уменьшение потребления электроэнергии на этапе обработки стали.
 
 Оптимизация производственного процесса потребления электроэнергии на этапе обработки стали.
